@@ -27,3 +27,5 @@
 <li>🐼 pandas - clean CSV and group aggregate data</li>
 <li>📱 openpxyl - bank imports and exports</li>
 <li>⚗️ sqlalchemy - write dataframes into tables (connect to SQL database)</li>
+
+<h2>Project Structure</h2>
